@@ -1,6 +1,6 @@
 # EC-CUBE 4開発ドキュメント
 
-github page of the [http://doc4.ec-cube.net/](http://doc4.ec-cube.net/)
+github page of the [https://doc4.ec-cube.net/](https://doc4.ec-cube.net/)
 
 EC-CUBE 4 の仕様や手順、開発Tipsに関するドキュメントを掲載しています。
 修正や追記、新規ドキュメントの作成をいただく場合、本レポジトリへPullRequestをお送りください。
@@ -17,6 +17,6 @@ PullRequestを送信する際は、EC-CUBEのコピーライトポリシーに�
 github pageはJekyll Documentation themeを使っています。
 
 windows環境の方は以下のURLを参考に環境を作成してください。
-<a href="http://qiita.com/chihiro-adachi/items/99a82c902b4c8467aa4c" target="_blank">http://qiita.com/chihiro-adachi/items/99a82c902b4c8467aa4c</a>
+<a href="https://qiita.com/chihiro-adachi/items/99a82c902b4c8467aa4c" target="_blank">https://qiita.com/chihiro-adachi/items/99a82c902b4c8467aa4c</a>
 
-Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
+Build the site to see the instructions for using it. Or just go here: [https://idratherbewriting.com/documentation-theme-jekyll/](https://idratherbewriting.com/documentation-theme-jekyll/)
